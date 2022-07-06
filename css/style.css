@@ -251,6 +251,7 @@ a{
     padding:100px 0px 60px;
     background-color: #FFF4D6; ;
     border-radius: 5px;
+    margin-bottom: 50px;
 }
 .email-section .email-box .box{
     width: 275px;
@@ -276,7 +277,7 @@ a{
 .footer-section{
     padding: 20px 0px; 
     height: 100px;
-    margin: 2913px 0px 0px;
+    margin: 3000px 0px 0px;
     color: #FF5959;
     background-color: #0b0d17;
     text-align: center;
