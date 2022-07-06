@@ -1,13 +1,11 @@
-*{
-   
-}
+
 body{
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 28px;
-    padding: 0px auto;
-    margin: 0px auto;
+    padding: 0px;
+    margin: 0px;
 }
 h1, h2, h3, h4, h5, h6{
     font-family: 'Inter', sans-serif;
@@ -50,7 +48,7 @@ a{
     border-radius: 5px;
 }
 .btn a{
-    color: #fff !important;
+    color: #fff;
 }
 .title{
     font-size: 40px;
@@ -271,6 +269,21 @@ a{
     margin: 0px 0px;
     color: #FAFAFA;
     border-radius: 0px 5px 5px 0px;
+}
+
+
+/* footer-section CSS start here */
+.footer-section{
+    padding: 20px 0px; 
+    height: 100px;
+    margin: 2913px 0px 0px;
+    color: #FF5959;
+    background-color: #0b0d17;
+    text-align: center;
+}
+.footer-section p{ 
+    color: #d9d9d9;
+
 }
 
 
